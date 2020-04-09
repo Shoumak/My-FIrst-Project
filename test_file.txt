@@ -4,4 +4,4 @@ This is file test_file in My First Project.
 
 1. Created new file.
 2. Extra file information: This is from my GitHub account.
-3. Removed Some Random Junk in a seperate branch named New.
+3. Some Random Junk created.
